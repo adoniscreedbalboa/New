@@ -5,8 +5,13 @@ public class Test {
         test.hg();
     }
 public String hg(){
-    String test="this is a testing branch";
+    String testing="this is a testing branch";
     System.out.println("this is in log");
-    return test;
+    return testing;
 }
+}
+
+public void adf()
+{
+    System.out.println("this is new branch testing ");
 }
